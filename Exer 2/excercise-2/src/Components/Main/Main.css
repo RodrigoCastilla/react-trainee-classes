@@ -1,0 +1,14 @@
+.MainElem{
+    background-color: #e3e3e3;
+    /* width: 80%; */
+    height: auto;
+    /* padding: 1rem; */
+    justify-content: center;
+}
+.MainElem__Title{
+    margin:0;
+    text-align: center;
+    padding: 1rem;
+    background-color: #C10000;
+    color: #ffffff 
+}

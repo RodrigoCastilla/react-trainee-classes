@@ -1,0 +1,10 @@
+.ListElement{
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 0.5rem;
+    min-width: 6rem;
+    min-height: 2rem;
+    background-color: #F2F7C9;
+    border-width: 0;
+    
+}

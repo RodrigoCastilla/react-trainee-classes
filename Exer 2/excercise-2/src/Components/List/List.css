@@ -1,0 +1,11 @@
+.List{
+    /* width: 15rem; */
+    min-width: 7rem;
+    max-width: 49rem;
+    height: 12rem;
+    background-color: #ffffff;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}

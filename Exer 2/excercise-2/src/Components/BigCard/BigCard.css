@@ -1,0 +1,28 @@
+.BigCard{
+    /* margin: auto auto; */
+    padding: 1rem;
+    background-color: #ffffff;
+    border-radius: .5rem;
+    color: #3e3e3e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: auto;
+    
+}
+.BigCard__TitleElement{
+    display: block;
+}
+.BigCard__TextElement{
+    display: inline-block;
+}
+.BigCard__DescriptionElement{
+    display: block;
+}
+.BigCard__HeroeGameElement{
+    display: inline-block;
+    margin-right:1rem;
+}
+.BigCard__ExtraElement{
+    display: inline-block;
+    margin-right:1rem;
+}
+
